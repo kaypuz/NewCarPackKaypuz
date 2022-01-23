@@ -2,10 +2,18 @@ fx_version 'adamant'
 game 'gta5'
 
 
+name "NewCarPackKaypuz"
+description "Araç"
+author "Kaypuz"
+version "1.3.1"
+
+
 files {
     'data/**/*.meta',
     'data/**/*.lua',
 }
+
+server_script "version.lua"
 
 data_file 'HANDLING_FILE' 'data/**/handling.meta'
 data_file 'VEHICLE_METADATA_FILE' 'data/**/vehicles.meta'

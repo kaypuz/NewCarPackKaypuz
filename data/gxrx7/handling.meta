@@ -4,20 +4,20 @@
 <Item type="CHandlingData">
 			<handlingName>gxrx7</handlingName>
       <fMass value="1300.000000" />
-      <fInitialDragCoeff value="9.780000" />
+      <fInitialDragCoeff value="3.500000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.060000" z="-0.0900000" />
       <vecInertiaMultiplier x="1.300000" y="1.500000" z="1.250000" />
-      <fDriveBiasFront value="0.000000" />
+      <fDriveBiasFront value="0.200000" />
       <nInitialDriveGears value="5" />
-      <fInitialDriveForce value="0.330000" />
+      <fInitialDriveForce value="0.480000" />
       <fDriveInertia value="1.000000" />
-      <fClutchChangeRateScaleUpShift value="2.100000" />
-      <fClutchChangeRateScaleDownShift value="2.200000" />
-      <fInitialDriveMaxFlatVel value="149.800000" />
+      <fClutchChangeRateScaleUpShift value="3.100000" />
+      <fClutchChangeRateScaleDownShift value="3.200000" />
+      <fInitialDriveMaxFlatVel value="180.000000" />
       <fBrakeForce value="0.850000" />
       <fBrakeBiasFront value="0.533000" />
-      <fHandBrakeForce value="0.580000" />
+      <fHandBrakeForce value="1.580000" />
       <fSteeringLock value="41.150000" />
       <fTractionCurveMax value="2.485000" />
       <fTractionCurveMin value="2.360000" />
