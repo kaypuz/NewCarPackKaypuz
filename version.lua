@@ -1,7 +1,7 @@
 local label =
 [[ 
   
-    ANANIN RUHUNA PASPAS
+    ANANIN RUHUNA PASPAS ATILIR
    
     Kaypuz Tarafından Yaratıldı
 ]]
@@ -12,7 +12,7 @@ function GetCurrentVersion()
 end
 
 -- Grabs the latest version number from the web GitHub
-PerformHttpRequest( "https://wolfknight98.github.io/wk_wars2x_web/version.txt", function( err, text, headers )
+PerformHttpRequest( "https://raw.githubusercontent.com/kaypuz/NewCarPackKaypuz_web/main/version.txt", function( err, text, headers )
 	-- Wait to reduce spam
 	Citizen.Wait( 2000 )
 
@@ -22,25 +22,25 @@ PerformHttpRequest( "https://wolfknight98.github.io/wk_wars2x_web/version.txt", 
 	-- Get the current resource version
 	local curVer = GetCurrentVersion()
 
-	print( "  ||    Şimdiki Versiyonu: " .. curVer )
+	print( "Şimdiki Versiyonu:" .. curVer )
 
 	if ( text ~= nil ) then
 		-- Print latest version
-		print( "  ||    En Son Önerilen Sürüm: " .. text .."\n  ||" )
+		print( "En Son Önerilen Sürüm:" .. text .."" )
 
 		-- If the versions are different, print it out
 		if ( text ~= curVer ) then
-			print( "  ||    ^1Your Wraith ARS 2X version is outdated, visit the FiveM forum post to get the latest version.\n^0  \\\\\n" )
+			print( "^1NewCarPackKaypuz sürümünüz güncel değil, en son sürümü almak için Github gönderisini ziyaret edin.^0" )
 		else
-			print( "  ||    ^2 NewCarPackKaypuz Güncel!\n^0  ||\n  \\\\\n" )
+			print( "^2NewCarPackKaypuz Güncel!^0" )
 		end
 	else
 		-- In case the version can not be requested, print out an error message
-		print( "  ||    ^1There was an error getting the latest version information.\n^0  ||\n  \\\\\n" )
+		print( "^1En son sürüm bilgileri alınırken bir hata oluştu.^0" )
 	end
 
 	-- Warn the console if the resource has been renamed, as this will cause issues with the resource's functionality.
-	if ( GetCurrentResourceName() ~= "wk_wars2x" ) then
-		print( "^1ERROR: Resource name is not wk_wars2x, expect there to be issues with the resource. To ensure there are no issues, please leave the resource name as wk_wars2x^0\n\n" )
+	if ( GetCurrentResourceName() ~= "NewCarPackKaypuz" ) then
+		print( "^1Hata: Kaynak adı NewCarPackKaypuz değil, kaynakla ilgili sorunlar olmasını bekliyoruz. Herhangi bir sorun olmadığından emin olmak için lütfen kaynak adını şu şekilde bırakın NewCarPackKaypuz^0" )
 	end
 end )
