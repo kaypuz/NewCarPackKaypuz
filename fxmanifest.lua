@@ -4,6 +4,7 @@ game 'gta5'
 
 files {
     'data/**/*.meta',
+    'data/**/*.lua',
 }
 
 data_file 'HANDLING_FILE' 'data/**/handling.meta'
