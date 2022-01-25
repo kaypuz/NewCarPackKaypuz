@@ -15,7 +15,7 @@
       <animConvRoofName>null</animConvRoofName>
       <animConvRoofWindowsAffected />
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>vacca</audioNameHash>
+      <audioNameHash>f136</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>COQUETTE_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
@@ -130,7 +130,7 @@
         <Item>VEH_EXT_WINDSCREEN_R</Item>
       </animConvRoofWindowsAffected>
       <ptfxAssetName>null</ptfxAssetName>
-      <audioNameHash>vacca</audioNameHash>
+      <audioNameHash>f136</audioNameHash>
       <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>CARBONIZ_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
