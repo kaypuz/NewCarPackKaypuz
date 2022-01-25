@@ -11,10 +11,10 @@ version "1.0.7"
 files {
     'data/**/*.meta',
     'data/**/*.lua',
-	"audioconfig/*.dat151.rel",
-	"audioconfig/*.dat54.rel",
-	"audioconfig/*.dat10.rel",
-	"sfx/**/*.awc"
+	'audioconfig/*.dat151.rel',
+	'audioconfig/*.dat54.rel',
+	'audioconfig/*.dat10.rel',
+	'sfx/**/*.awc'
 }
 
 server_script "version.lua"
