@@ -5,7 +5,7 @@ game 'gta5'
 name "NewCarPackKaypuz"
 description "Araç"
 author "Kaypuz"
-version "1.0.5"
+version "1.0.7"
 
 
 files {
