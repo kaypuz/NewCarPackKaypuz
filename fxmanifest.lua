@@ -5,7 +5,7 @@ game 'gta5'
 name "NewCarPackKaypuz"
 description "Araç"
 author "Kaypuz"
-version "1.0.7"
+version "1.0.5"
 
 
 files {
@@ -28,15 +28,3 @@ data_file "AUDIO_SYNTHDATA" "audioconfig/lamavgineng_amp.dat"
 data_file "AUDIO_GAMEDATA" "audioconfig/lamavgineng_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/lamavgineng_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_lamavgineng"
-data_file "AUDIO_SYNTHDATA" "audioconfig/camls3v8_amp.dat"
-data_file "AUDIO_GAMEDATA" "audioconfig/camls3v8_game.dat"
-data_file "AUDIO_SOUNDDATA" "audioconfig/camls3v8_sounds.dat"
-data_file "AUDIO_WAVEPACK" "sfx/dlc_camls3v8"
-data_file 'AUDIO_SYNTHDATA' 'audioconfig/nisgtr35_amp.dat'
-data_file 'AUDIO_GAMEDATA' 'audioconfig/nisgtr35_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/nisgtr35_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_nisgtr35'
-data_file 'AUDIO_SYNTHDATA' 'audioconfig/f136_amp.dat'
-data_file 'AUDIO_GAMEDATA' 'audioconfig/f136_game.dat'
-data_file 'AUDIO_SOUNDDATA' 'audioconfig/f136_sounds.dat'
-data_file 'AUDIO_WAVEPACK' 'sfx/dlc_f136'
