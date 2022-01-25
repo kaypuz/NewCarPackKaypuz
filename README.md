@@ -1,3 +1,8 @@
+### 1.0.7
+- `Nissan GTR R35`: Car And Sound Mod
+- `Ferrari 488`: Car And Sound Mod
+- `Ferrari 488 Pista Spider`: Car And Sound Mod
+
 ### 1.0.6
 - `Chevrolet Camaro ZL1`: Car And Sound Mod
 
