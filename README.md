@@ -1,3 +1,9 @@
+### 1.0.9
+- `Nissan GTR R34`: Added A New Sound Mode
+- `Ford Gt`: Car And Sound Mod
+- `Nissan Silvia S15`: Car And Sound Mod
+- `Dodge Charger Daytona`: Car And Sound Mod
+
 ### 1.0.8
 - `Nissan GTR R34`: Car And Sound Mod
 - `Chevrolet Corvette ZR1`: Car And Sound Mod
