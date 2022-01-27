@@ -56,7 +56,14 @@ data_file 'AUDIO_SYNTHDATA' 'audioconfig/s15sound_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/s15sound_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/s15sound_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s15sound'
+<<<<<<< HEAD
 data_file 'AUDIO_SYNTHDATA' 'audioconfig/npolchar_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/npolchar_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/npolchar_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
+=======
+data_file 'AUDIO_SYNTHDATA' 'audioconfig/srtday20_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/srtday20_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/srtday20_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_srtday20'
+>>>>>>> 6dddc9847193abd03990655aba5bd88a4ed26aa9
