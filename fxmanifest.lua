@@ -5,7 +5,7 @@ game 'gta5'
 name "NewCarPackKaypuz"
 description "Araç"
 author "Kaypuz"
-version "1.0.8"
+version "1.0.9"
 
 
 files {
@@ -56,3 +56,7 @@ data_file 'AUDIO_SYNTHDATA' 'audioconfig/s15sound_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/s15sound_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/s15sound_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s15sound'
+data_file 'AUDIO_SYNTHDATA' 'audioconfig/npolchar_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/npolchar_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/npolchar_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
