@@ -1,3 +1,8 @@
+### 1.0.8
+- `Nissan GTR R34`: Car And Sound Mod
+- `Chevrolet Corvette ZR1`: Car And Sound Mod
+- `Range Rover Sport`: Just Car
+
 ### 1.0.7
 - `Nissan GTR R35`: Car And Sound Mod
 - `Ferrari 488`: Car And Sound Mod
