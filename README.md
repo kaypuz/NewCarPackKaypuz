@@ -1,3 +1,8 @@
+### 1.1.0
+- `McLaren Senna`: Car And Sound Mod
+- `Honda NSX-R`: Just Car
+
+
 ### 1.0.9
 - `Nissan GTR R34`: Added A New Sound Mode
 - `Ford Gt`: Car And Sound Mod
