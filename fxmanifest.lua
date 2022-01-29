@@ -64,4 +64,7 @@ data_file 'AUDIO_SYNTHDATA' 'audioconfig/npolchar_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/npolchar_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/npolchar_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
-
+data_file 'AUDIO_SYNTHDATA' 'audioconfig/talam52v10_amp.dat'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/talam52v10_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/talam52v10_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_talam52v10' 
