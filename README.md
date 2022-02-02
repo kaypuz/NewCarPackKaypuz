@@ -1,7 +1,7 @@
 ### 1.1.2
 - `Lamborghini Murcielago LP 670`: Car And Sound Mod
 - `Porsche 911 GT3 RS`: Car And Sound Mod
-- `Audi R8 Spyder`:Bug Tool Removed 
+- `Audi R8 Spyder`: Bug Tool Removed 
 
 ### 1.1.1
 - `Huracan Libertywalk`: Car And Sound Mod
