@@ -5,7 +5,7 @@ game 'gta5'
 name "NewCarPackKaypuz"
 description "Araç"
 author "Kaypuz"
-version "1.1.1"
+version "1.1.2"
 
 
 files {
@@ -68,3 +68,6 @@ data_file 'AUDIO_SYNTHDATA' 'audioconfig/talam52v10_amp.dat'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/talam52v10_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/talam52v10_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_talam52v10' 
+data_file 'AUDIO_GAMEDATA' 'audioconfig/tagt3flat6_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/tagt3flat6_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_tagt3flat6'
