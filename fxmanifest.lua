@@ -5,7 +5,7 @@ game 'gta5'
 name "NewCarPackKaypuz"
 description "Araç"
 author "Kaypuz"
-version "1.1.2"
+version "1.1.3"
 
 
 files {
@@ -74,3 +74,6 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_tagt3flat6'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/murciev12_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/murciev12_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_murciev12'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/italianttv10_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/italianttv10_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_italianttv10'
