@@ -1,3 +1,7 @@
+### 1.1.3
+- `Lamborghini Huracan Performante`: Car And Sound Mod
+- `Toyota Supra MK4`: Car And Sound Mod
+
 ### 1.1.2
 - `Lamborghini Murcielago LP 670`: Car And Sound Mod
 - `Porsche 911 GT3 RS`: Car And Sound Mod
