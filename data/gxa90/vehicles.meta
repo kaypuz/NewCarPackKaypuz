@@ -5,19 +5,19 @@
 	<residentAnims />
 	<InitDatas>
 	<Item>
-		<modelName>gxa90</modelName>
-		<txdName>gxa90</txdName>
-		<handlingId>gxa90</handlingId>
-		<gameName>Supra A90</gameName>
-		<vehicleMakeName>Toyota</vehicleMakeName>
-		<expressionDictName>null</expressionDictName>
-		<expressionName>null</expressionName>
-		<animConvRoofDictName>null</animConvRoofDictName>
-		<animConvRoofName>null</animConvRoofName>
-		<animConvRoofWindowsAffected />
-		<ptfxAssetName>null</ptfxAssetName>
-		<audioNameHash>b58b30</audioNameHash>
-     <layout>LAYOUT_LOW</layout>
+	  <modelName>gxa90</modelName>
+	  <txdName>gxa90</txdName>
+	  <handlingId>gxa90</handlingId>
+	  <gameName>Supra A90</gameName>
+	  <vehicleMakeName>Toyota</vehicleMakeName>
+	  <expressionDictName>null</expressionDictName>
+	  <expressionName>null</expressionName>
+	  <animConvRoofDictName>null</animConvRoofDictName>
+	  <animConvRoofName>null</animConvRoofName>
+	  <animConvRoofWindowsAffected />
+	  <ptfxAssetName>null</ptfxAssetName>
+	  <audioNameHash>b58b30</audioNameHash>
+      <layout>LAYOUT_LOW</layout>
       <coverBoundOffsets>JESTER3_COVER_OFFSET_INFO</coverBoundOffsets>
       <explosionInfo>EXPLOSION_INFO_DEFAULT</explosionInfo>
       <scenarioLayout />
