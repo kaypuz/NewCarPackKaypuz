@@ -5,6 +5,7 @@
 - `Audi RS8 Hycade`: New Sound Mod
 - `Audi RS6 ABT 2020`: New Sound Mod
 - `Chevrolet Corvette ZR1`: Vehicle Removed
+- `Dodge Challenger SRT Demon`: Just Car
 
 ### 1.1.3
 - `Lamborghini Huracan Performante`: Car And Sound Mod
