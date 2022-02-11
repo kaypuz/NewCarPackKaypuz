@@ -2,7 +2,7 @@
 - `Lamborghini Huracan Performante`: Vehicle Sound Changed
 - `BMW M5 CS 2022`: New Sound Mod
 - `Toyota Supra A90 MK5`: Car And Sound Mod
-- `Audi RS8 Hycade`: New Sound Mod
+- `Audi R8 Hycade`: New Sound Mod
 - `Audi RS6 ABT 2020`: New Sound Mod
 - `Chevrolet Corvette ZR1`: Vehicle Removed
 - `Dodge Challenger SRT Demon`: Just Car
