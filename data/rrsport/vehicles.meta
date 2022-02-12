@@ -3,20 +3,10 @@
   <residentTxd>vehshare</residentTxd>
   <residentAnims />
   <InitDatas>
-
-
-
-
-
-
-
-
-
-
     <Item>
       <modelName>rrsport</modelName>
       <txdName>rrsport</txdName>
-      <handlingId>BALLER2</handlingId>
+      <handlingId>rrsport</handlingId>
       <gameName>Sport</gameName>
       <vehicleMakeName>Range Rover</vehicleMakeName>
       <expressionDictName>null</expressionDictName>
