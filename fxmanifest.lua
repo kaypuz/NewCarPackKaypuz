@@ -5,7 +5,7 @@ game 'gta5'
 name "NewCarPackKaypuz"
 description "Car Pack"
 author "Kaypuz"
-version "1.1.5"
+version "1.1.6"
 
 
 files {
@@ -90,3 +90,6 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ea825'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/b58b30_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/b58b30_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_b58b30'
+data_file "AUDIO_GAMEDATA" "audioconfig/lamveneng_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lamveneng_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lamveneng"
