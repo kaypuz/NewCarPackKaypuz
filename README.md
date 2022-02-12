@@ -1,3 +1,7 @@
+### 1.1.5
+- `All Vehicles`: All Handlings Are Adjusted For S Class
+- `Ford Mustang Mach 1`: Vehicle Removed
+
 ### 1.1.4
 - `Lamborghini Huracan Performante`: Vehicle Sound Changed
 - `BMW M5 CS 2022`: New Sound Mod
