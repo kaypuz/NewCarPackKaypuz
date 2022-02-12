@@ -1,3 +1,8 @@
+### 1.1.6
+- `Lamborghini Veneno`: Car And Sound Mod
+- `Bmw M8 Coupe Spyder`: Car And Sound Mod
+- 
+Lamborghini Veneno
 ### 1.1.5
 - `All Vehicles`: All Handlings Are Adjusted For S Class
 - `Ford Mustang Mach 1`: Vehicle Removed
