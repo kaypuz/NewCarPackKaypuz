@@ -93,3 +93,6 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_b58b30'
 data_file "AUDIO_GAMEDATA" "audioconfig/lamveneng_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/lamveneng_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_lamveneng"
+data_file "AUDIO_GAMEDATA" "audioconfig/predatorv8_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/predatorv8_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_predatorv8"
