@@ -96,3 +96,9 @@ data_file "AUDIO_WAVEPACK" "sfx/dlc_lamveneng"
 data_file "AUDIO_GAMEDATA" "audioconfig/predatorv8_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/predatorv8_sounds.dat"
 data_file "AUDIO_WAVEPACK" "sfx/dlc_predatorv8"
+data_file 'AUDIO_GAMEDATA' 'audioconfig/f10m5_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/f10m5_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_f10m5'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/ferrarif140fe_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/ferrarif140fe_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ferrarif140fe'
