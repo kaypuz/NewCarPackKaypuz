@@ -1,6 +1,10 @@
+### 1.1.8
+- `Ferarri LA-FERRARİ`: Car And Sound Mod
+- `Mercedes-Benz C63 AMG Coupe Black Series`: Car And Sound Mod
+
 ### 1.1.7
 - `BMW M5 F10`: Car And Sound Mod
-- `Ford GT500`: Car And Sound Mod
+- `Ford Mustang GT500`: Car And Sound Mod
 
 ### 1.1.6
 - `Lamborghini Veneno`: Car And Sound Mod
