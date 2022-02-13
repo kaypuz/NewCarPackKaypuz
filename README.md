@@ -1,3 +1,7 @@
+### 1.1.7
+- `BMW M5 F10`: Car And Sound Mod
+- `Ford GT500`: Car And Sound Mod
+
 ### 1.1.6
 - `Lamborghini Veneno`: Car And Sound Mod
 - `Bmw M8 Coupe Spyder`: Car And Sound Mod
