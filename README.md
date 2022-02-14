@@ -1,3 +1,10 @@
+### 1.2.0
+- `Tesla Model S`: Just Car
+
+### 1.1.9
+- `Gumpert Apollo Intensa Emozione`: Just Car
+- `MINI John Cooper Works GP`: Just Car
+
 ### 1.1.8
 - `Ferarri LA-FERRARİ`: Car And Sound Mod
 - `Mercedes-Benz C63 AMG Coupe Black Series`: Car And Sound Mod
