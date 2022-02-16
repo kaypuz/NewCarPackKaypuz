@@ -5,7 +5,7 @@ game 'gta5'
 name "NewCarPackKaypuz"
 description "Car Pack"
 author "Kaypuz"
-version "1.2.0"
+version "1.2.1"
 
 
 files {
@@ -111,3 +111,9 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_hachurac'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/hondaf20c_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/hondaf20c_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_hondaf20c'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/n55b30t0_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/n55b30t0_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_n55b30t0'
+data_file 'AUDIO_GAMEDATA' 'audioconfig/s55b30_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/s55b30_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_s55b30'
