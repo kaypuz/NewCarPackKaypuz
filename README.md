@@ -1,7 +1,6 @@
 ### 1.2.1
 - `Honda S2000`: Car And Sound Mod
 - `BMW E92 M3 GTS`: Car And Sound Mod
-- `BMW F82 M4`: Car And Sound Mod
 
 ### 1.2.0
 - `Tesla Model S`: Just Car
