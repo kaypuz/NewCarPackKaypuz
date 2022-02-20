@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <CHandlingDataMgr>
   <HandlingData>
      <Item type="CHandlingData">
@@ -12,17 +11,17 @@
       <vecInertiaMultiplier x="1.180000" y="1.000000" z="1.620000"/>
       <fDriveBiasFront value="0.300000"/>
       <nInitialDriveGears value="7"/>
-      <fInitialDriveForce value="0.328000"/>
+      <fInitialDriveForce value="0.320000"/>
       <fDriveInertia value="1.000000"/>
       <fClutchChangeRateScaleUpShift value="3.000000"/>
       <fClutchChangeRateScaleDownShift value="3.000000"/>
-      <fInitialDriveMaxFlatVel value="200.00000"/>
+      <fInitialDriveMaxFlatVel value="210.00000"/>
       <fBrakeForce value="1.200000"/>
       <fBrakeBiasFront value="0.480000"/>
       <fHandBrakeForce value="1.200000"/>
-      <fSteeringLock value="39.800000"/>
-      <fTractionCurveMax value="2.410000"/>
-      <fTractionCurveMin value="2.145000"/>
+      <fSteeringLock value="39.000000"/>
+      <fTractionCurveMax value="2.400000"/>
+      <fTractionCurveMin value="1.900000"/>
       <fTractionCurveLateral value="21.800000"/>
       <fTractionSpringDeltaMax value="0.134000"/>
       <fLowSpeedTractionLossMult value="0.322"/>
