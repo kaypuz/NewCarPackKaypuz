@@ -1,3 +1,7 @@
+### 1.2.2
+- `BMW Z4 M40i`: Just Car
+- `Mercedes Benz SLS AMG`: Just Car
+
 ### 1.2.1
 - `Honda S2000`: Car And Sound Mod
 - `BMW E92 M3 GTS`: Car And Sound Mod
