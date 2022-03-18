@@ -1,3 +1,7 @@
+### 1.2.3
+- `Nissan Fairlady Z`: Car And Sound Mod
+- `McLaren 720S`: Update Car Sound
+
 ### 1.2.2
 - `BMW Z4 M40i`: Just Car
 - `Mercedes Benz SLS AMG`: Just Car
