@@ -1,3 +1,19 @@
+### 1.2.5
+- `Lamborghini SC18 Alston`: Just Car
+- `Ferrari F8 Tributo`: Just Car
+
+
+### 1.2.5
+- `BMW S1000RR`: Just Bike
+- `Yamaha YZF-R1`: Just Bike
+- `Ducati Panigale V4R`: Just Bike
+
+### 1.2.4
+- `BMW E30 M3`: Just Car
+- `Mercedes-Benz S650 Maybach`: Just Car
+- `Ferrari SF90 Stradale`: Just Car
+- `Mercedes-Benz AMG GT Black Series`: Just Car
+
 ### 1.2.3
 - `Nissan Fairlady Z`: Car And Sound Mod
 - `McLaren 720S`: Update Car Sound
