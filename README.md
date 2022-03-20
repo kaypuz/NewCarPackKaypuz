@@ -1,6 +1,5 @@
 ### 1.2.6
 - `Lamborghini SC18 Alston`: Just Car
-- `Ferrari F8 Tributo`: Just Car
 
 
 ### 1.2.5
