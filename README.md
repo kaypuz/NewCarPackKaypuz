@@ -1,5 +1,7 @@
 ### 1.2.6
 - `Lamborghini SC18 Alston`: Just Car
+- `Bentley Continental GT Convertible`: Just Car
+- `Ferrari F8 Spider`: Just Car
 
 
 ### 1.2.5
