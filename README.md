@@ -1,5 +1,12 @@
+### 1.2.7
+- `Porsche 911 GT3 2022`: Just Car
+- `Mercedes-AMG One 2021`: Just Car
+- `Renault Clio IV RS 2013`: Just Car
+- `Mercedes-Benz A45 AMG`: Just Car
+- `Porsche Cayenne Turbo 2022`: Just Car
+
+
 ### 1.2.6
-- `Lamborghini SC18 Alston`: Just Car
 - `Bentley Continental GT Convertible`: Just Car
 - `Ferrari F8 Spider`: Just Car
 
