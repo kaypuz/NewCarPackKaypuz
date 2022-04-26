@@ -2,8 +2,9 @@
 - `Porsche 911 GT3 2022`: Just Car
 - `Mercedes-AMG One 2021`: Just Car
 - `Renault Clio IV RS 2013`: Just Car
-- `Mercedes-Benz A45 AMG`: Just Car
+- `Mercedes-Benz A45 AMG 2016`: Just Car
 - `Porsche Cayenne Turbo 2022`: Just Car
+- `Porsche Taycan Turbo S 2021`: Just Car
 
 
 ### 1.2.6
