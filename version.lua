@@ -1,8 +1,5 @@
 local label =
 [[ 
- 
-    ANANIN RUHUNA PASPAS ATILIR
-   
     Kaypuz Tarafından Yaratıldı
 ]]
 
