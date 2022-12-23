@@ -2,7 +2,7 @@
 <CHandlingDataMgr>
   <HandlingData>
     <Item type="CHandlingData">
-      <handlingName>DEMON</handlingName>
+      <handlingName>npolvic</handlingName>
       <fMass value="1940.000000" />
       <fInitialDragCoeff value="3.0000000" />
       <fPercentSubmerged value="85.000000" />
