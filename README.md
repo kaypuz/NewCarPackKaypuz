@@ -1,3 +1,7 @@
+### 1.2.8
+- `BMW M3 Touring 2022`: Just Car
+- `BMW M2 2023`: Just Car
+
 ### 1.2.7
 - `Porsche 911 GT3 2022`: Just Car
 - `Mercedes-AMG One 2021`: Just Car
@@ -113,3 +117,9 @@
 
 ### 1.0.2
 - `BMW M5 CS 2022`: Just Car
+
+### 1.0.1
+- `EMPTY`: EMPTY
+
+### 1.0.0
+- `RUBBISH`: RUBBISH
