@@ -122,3 +122,11 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ml720v8eng'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/lgcy03nisl24_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/lgcy03nisl24_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_lgcy03nisl24'
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg114oldgalv10_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg114oldgalv10_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg114oldgalv10_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg114oldgalv10"
+data_file "AUDIO_SYNTHDATA" "audioconfig/lg116slsamg_amp.dat"
+data_file "AUDIO_GAMEDATA" "audioconfig/lg116slsamg_game.dat"
+data_file "AUDIO_SOUNDDATA" "audioconfig/lg116slsamg_sounds.dat"
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg116slsamg"
