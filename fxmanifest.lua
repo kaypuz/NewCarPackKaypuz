@@ -129,7 +129,18 @@ data_file "AUDIO_WAVEPACK" "sfx/dlc_lg114oldgalv10"
 data_file "AUDIO_SYNTHDATA" "audioconfig/lg116slsamg_amp.dat"
 data_file "AUDIO_GAMEDATA" "audioconfig/lg116slsamg_game.dat"
 data_file "AUDIO_SOUNDDATA" "audioconfig/lg116slsamg_sounds.dat"
+<<<<<<< HEAD
 data_file "AUDIO_WAVEPACK" "sfx/dlc_lg116slsamg"
 data_file 'AUDIO_GAMEDATA' 'audioconfig/ars6c8avant_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/ars6c8avant_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ars6c8avant'
+=======
+<<<<<<< HEAD
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg116slsamg"
+data_file 'AUDIO_GAMEDATA' 'audioconfig/ars6c8avant_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/ars6c8avant_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ars6c8avant'
+=======
+data_file "AUDIO_WAVEPACK" "sfx/dlc_lg116slsamg"
+>>>>>>> 455425925a9fc31880d433f335c895300cd7d5f0
+>>>>>>> ecd8db08a7843d8e6ec40629814f21acc873c256
