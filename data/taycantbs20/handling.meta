@@ -29,7 +29,7 @@
       <fTractionLossMult value="1.000000" />
       <fSuspensionForce value="2.600000" />
       <fSuspensionCompDamp value="1.200000" />
-      <fSuspensionReboundDamp value="2.400000" />
+      <fSuspensionReboundDamp value="1.200000" />
       <fSuspensionUpperLimit value="0.090000" />
       <fSuspensionLowerLimit value="-0.140000" />
       <fSuspensionRaise value="-0.020000" />

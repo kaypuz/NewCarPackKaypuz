@@ -27,9 +27,9 @@
       <fCamberStiffnesss value="0.000000" />
       <fTractionBiasFront value="0.500000" />
       <fTractionLossMult value="0.700000" />
-      <fSuspensionForce value="1.600000" />
+      <fSuspensionForce value="1.800000" />
       <fSuspensionCompDamp value="1.400000" />
-      <fSuspensionReboundDamp value="3.200000" />
+      <fSuspensionReboundDamp value="1.000000" />
       <fSuspensionUpperLimit value="0.050000" />
       <fSuspensionLowerLimit value="-0.080000" />
       <fSuspensionRaise value="0.000000" />
